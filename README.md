@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Joren De Braeckeleer
-- 👀 I’m interested in games
-- 🌱 I’m currently learning C++
-- 📫 How to reach me -> discord: ItzJorinoPlays#8456
+Hallo,
 
-<!---
-JorenDeBraeckeleer/JorenDeBraeckeleer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Joren De Braeckeleer, 19 y/o from Belgium.
+Student Game Development @DAE, 3rd year and searching for an internship in the game industry.
+
+Engine Programming is my main focus, although exploring AI/Graphics on the side is something I get more into with time.
+
+More info: https://jorendebraeckeleer.wixsite.com/jorendebraeckeleer
