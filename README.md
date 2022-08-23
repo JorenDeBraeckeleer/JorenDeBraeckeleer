@@ -5,4 +5,4 @@ Student Game Development @DAE, 3rd year and searching for an internship in the g
 
 Engine Programming is my main focus, although exploring Gameplay/Graphics on the side is something I get more into with time.
 
-More info: jorendebraeckeleer.com
+More info: https://jorendebraeckeleer.com
